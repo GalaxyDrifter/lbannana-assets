@@ -3,7 +3,7 @@
 <p> if you are deploying to any other sites you have to first, (well obviously) deploy to any other site and once you have your new site you have to do (for example) /html/slope/index.html. you that right after the domain. so for example if this was your domain, (https://lbannana-assets.com/. It would look like https://lbannana-assets.com/html/slope/index.html</p>
 
 
-<h>deploy the assets</h>
+<h1>deploy the assets</h1>
 
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lbannana/lbannana-assets)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/lbannana/lbannana-assets) 
