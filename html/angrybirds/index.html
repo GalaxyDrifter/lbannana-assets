@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script>
+    if (!localStorage.getItem("popupShown")) {
+    window.onload = function() {
+  alert("For some reason in angry birds the sound dosen't work (sorry)");
+  localStorage.setItem("popupShown", "true");
+  };
+  </script>
     <title>Angry Birds | lioxryt</title>
     <meta name="Title" content="Angry Birds | lbannana">
     <meta name="description" content="Play Angry Birds online in HD with Google Chrome">
