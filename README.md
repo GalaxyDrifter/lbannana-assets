@@ -1,6 +1,6 @@
 <h1>lbannana-assets</h1>
 
-<p> if you are deploying to any other sites you have to first, (well obviously) deploy to any other site and once you have your new site you have to do (for example) /html/slope/index.html. you that right after the domain. so for example if this was your domain, (https://lbannana-assets.com/. It would look like https://lbannana-assets.com/html/slope/index.html</p>
+<p> if you are deploying to any other sites you have to first, (well obviously) deploy to any other site and once you have your new site you have to do (for example) /html/slope/index.html. you that right after the domain. so for example if this was your domain, (https://lbannana.github.io/. It would look like https://lbannana.github.io/lbannana-assets/html/slope/index.html</p>
 
 
 <h1>deploy the assets</h1>
